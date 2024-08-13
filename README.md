@@ -44,4 +44,3 @@ Contributions and feedback are welcome! Feel free to submit issues or pull reque
 
 ---
 
-This description provides a clear and engaging overview of your project, outlining its purpose, features, and how to get started.
