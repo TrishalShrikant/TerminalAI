@@ -1,8 +1,8 @@
 import os
 import google.generativeai as genai
+os.environ['GOOGLE_API_KEY'] = "api key"
 
-os.environ['GOOGLE_API_KEY'] = "YOUR API-KEY"
-genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
+genai.configure(api_key = os.environ["GOOGLE_API_KEY"])
 
 model = genai.GenerativeModel('gemini-pro')
 print("HELLO THIS IS TERMINAL-AI")
