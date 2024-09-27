@@ -1,5 +1,4 @@
-# TerminalAI
-Here's a polished description for your GitHub project:
+
 
 ---
 
